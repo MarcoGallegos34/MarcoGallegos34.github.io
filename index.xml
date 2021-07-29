@@ -17,13 +17,21 @@
     </item>
     
     <item>
-      <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
-      <link>/publications/alldaydevops/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <title>Multi-level multi-state modelling applied to hospital admission in mexican patients with COVID-19</title>
+      <link>/publications/covid_multi/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>/publications/alldaydevops/</guid>
-      <description>This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
- Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description>
+      <guid>/publications/covid_multi/</guid>
+      <description>Since the beginning of the SARS-CoV 2 pandemic, healthcare authorities have made clear that it is crucial to track and identify COVID-19 symptoms and seek medical attention in the presence of the first warning signs, as immediate medical attention can improve the patient’s prognosis. Therefore the present work aims to analyze the risks associated with the time between the patient’s first symptoms and hospitalization followed by death. A cross-sectional study was performed among Mexican population diagnosed with COVID-19 and hospitalized from March to January 2021.</description>
+    </item>
+    
+    <item>
+      <title>A multi-dimensional non-homogeneous Markov chain of order K to jointly study multi-pollutant exceedances</title>
+      <link>/publications/nonhomog_mc/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/nonhomog_mc/</guid>
+      <description>In this work we consider a multivariate non-homogeneous Markov chain of order K &amp;gt; 0 to study the occurrences of exceedances of environmental thresholds. In the model, d &amp;gt; 0 pollutants may be followed and according to their respective environmental thresholds a daily measurement may be considered an exceedance or not. The parameters of the model are the order of the chain, and its initial and transition distributions. These parameters are estimated under the Bayesian point of view.</description>
     </item>
     
     <item>

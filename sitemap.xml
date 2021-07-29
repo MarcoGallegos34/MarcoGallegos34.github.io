@@ -17,8 +17,12 @@
     <loc>/projects/contributions/deploy-triggers/</loc>
     <priority>0.8</priority>
   </url><url>
-    <loc>/publications/alldaydevops/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+    <loc>/publications/covid_multi/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>/publications/nonhomog_mc/</loc>
+    <lastmod>2021-03-03T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>/projects/contributions/shields-docker/</loc>
@@ -76,18 +80,6 @@
     <lastmod>2018-02-10T18:56:13-05:00</lastmod>
     <priority>1</priority>
   </url><url>
-    <loc>/tags/agile/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/continuous-delivery/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/continuous-integration/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/culture/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/apache/</loc>
     <lastmod>2009-01-01T14:09:10+00:00</lastmod>
   </url><url>
@@ -118,8 +110,6 @@
     <loc>/tags/bash/shell/</loc>
   </url><url>
     <loc>/tags/bitbucket/</loc>
-  </url><url>
-    <loc>/tags/ci/cd-pipelines/</loc>
   </url><url>
     <loc>/tags/confluence/</loc>
   </url><url>
